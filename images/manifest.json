@@ -7,5 +7,87 @@
             "All images loaded in mysunny0689/TMDR_project project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mysunny0689.github.io/TMDR_project/images/nike/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "nike"
+                ]
+            },
+            "height": 683,
+            "width": 1024,
+            "items": [
+                {
+                    "id": "https://mysunny0689.github.io/TMDR_project/images/nike/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mysunny0689.github.io/TMDR_project/images/nike/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mysunny0689.github.io/TMDR_project/images/nike/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 64,
+                                                "height": 43
+                                            },
+                                            {
+                                                "width": 128,
+                                                "height": 86
+                                            },
+                                            {
+                                                "width": 256,
+                                                "height": 171
+                                            },
+                                            {
+                                                "width": 512,
+                                                "height": 342
+                                            },
+                                            {
+                                                "width": 1024,
+                                                "height": 683
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1024,
+                                        "@id": "https://mysunny0689.github.io/TMDR_project/images/nike",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 683,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mysunny0689.github.io/TMDR_project/images/nike/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
