@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://mysunny0689.github.io/TMDR_project/images/Sandle/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Sandle"
+                ]
+            },
+            "height": 1800,
+            "width": 1200,
+            "items": [
+                {
+                    "id": "https://mysunny0689.github.io/TMDR_project/images/Sandle/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mysunny0689.github.io/TMDR_project/images/Sandle/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mysunny0689.github.io/TMDR_project/images/Sandle/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 57
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 113
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 225
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 450
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 900
+                                            },
+                                            {
+                                                "width": 1200,
+                                                "height": 1800
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1200,
+                                        "@id": "https://mysunny0689.github.io/TMDR_project/images/Sandle",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1800,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mysunny0689.github.io/TMDR_project/images/Sandle/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://mysunny0689.github.io/TMDR_project/images/nike/canvas/",
             "type": "Canvas",
             "label": {
