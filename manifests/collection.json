@@ -1,0 +1,13 @@
+{
+  "id" : "https://mysunny0689.github.io/TMDR_project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mysunny0689/TMDR_project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mysunny0689.github.io/TMDR_project/manifests/Sandle.json",
+    "label" : "Fashion"
+  } ]
+}
